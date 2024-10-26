@@ -39,7 +39,7 @@ h1 {
 
 .TodoWrapper {
   background: var(--primary-color); 
-  padding: 2rem;
+  padding: 4rem;
   border-radius: 5px;
   -webkit-box-shadow: 0 0 1.0714rem rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 1.0714rem rgba(0, 0, 0, 0.1);
